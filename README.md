@@ -1,9 +1,6 @@
 # movieql
 Movie API with Graphql
 
-
-2022.04.29(Fri)
-
 graphql을 이용한 영화 api 만들기 완료
 
 rest api로 오는 json 데이터를 제가공해서 좀더 가벼운? 상태로 호출 (under-fetching, over-ferching)
